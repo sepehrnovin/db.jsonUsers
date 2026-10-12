@@ -1,0 +1,46 @@
+
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Ali Ahmadi",
+        "username": "ali_ahmadi",
+        "email": "ali@example.com",
+        "age": 25,
+        "isActive": true
+      },
+      {
+        "id": 2,
+        "name": "Sara Karimi",
+        "username": "sara_karimi",
+        "email": "sara@example.com",
+        "age": 29,
+        "isActive": true
+      },
+      {
+        "id": 3,
+        "name": "Reza Moradi",
+        "username": "reza_moradi",
+        "email": "reza@example.com",
+        "age": 32,
+        "isActive": false
+      },
+      {
+        "id": 4,
+        "name": "Neda Hosseini",
+        "username": "neda_hosseini",
+        "email": "neda@example.com",
+        "age": 27,
+        "isActive": true
+      },
+      {
+        "id": 5,
+        "name": "Amir Jafari",
+        "username": "amir_jafari",
+        "email": "amir@example.com",
+        "age": 35,
+        "isActive": true
+      }
+    ]
+  }
+  
